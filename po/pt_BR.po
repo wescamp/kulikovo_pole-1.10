@@ -1,0 +1,235 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: kulikovo_pole-1.10\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-03-28 16:38-0400\n"
+"PO-Revision-Date: 2013-03-28 16:38-0400\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: pt_BR\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+
+#. [multiplayer]: id=multiplayer_Kulikovo_Pole
+#: kulikovo_pole/scenarios/kulikovo_pole.cfg:4
+msgid "8p — The Battle of Kulikovo 1380"
+msgstr ""
+
+#. [multiplayer]: id=multiplayer_Kulikovo_Pole
+#: kulikovo_pole/scenarios/kulikovo_pole.cfg:5
+msgid ""
+"The battle from real history for 8 players. Look at http://en.wikipedia.org/"
+"wiki/Battle_of_Kulikovo The Battle of Kulikovo was fought between the armies "
+"of Golden Horde under command of Mamai, and various Russian principalities "
+"under united command of Prince Dmitri of Moscow. Combined Russian armies "
+"faced a much larger Tatar force under the command of Mamai, a strongman of "
+"the Golden Horde. The old Russian poem Zadonshchina lists 150,000 Russians "
+"and 300,000 Tartaro-Mongols as taking part in the battle. (On this game's "
+"map, the forces are about equal for better balance.) Mamai's allies were "
+"late to the battle. (On this game's map, they show up at ~10 turn and go to "
+"the center at ~40 turn from up-left corner.) The battle took place on "
+"September 8, 1380, at the Kulikovo Field near the Don River and was won by "
+"Dmitri, who became known as Donskoy (of the Don) since then. The battle was "
+"opened by a single combat of two champions. The Russian champion was "
+"Alexander Peresvet. The Horde champion was Chelubey. The champions killed "
+"each other in the first run... (This map was made by Ec0stM1c.)"
+msgstr ""
+
+#. [side]
+#: kulikovo_pole/scenarios/kulikovo_pole.cfg:21
+#: kulikovo_pole/scenarios/kulikovo_pole.cfg:50
+#: kulikovo_pole/scenarios/kulikovo_pole.cfg:79
+#: kulikovo_pole/scenarios/kulikovo_pole.cfg:108
+msgid "teamname^Mamai"
+msgstr ""
+
+#. [side]
+#: kulikovo_pole/scenarios/kulikovo_pole.cfg:35
+#: kulikovo_pole/scenarios/kulikovo_pole.cfg:64
+#: kulikovo_pole/scenarios/kulikovo_pole.cfg:93
+#: kulikovo_pole/scenarios/kulikovo_pole.cfg:122
+msgid "teamname^Dmitry"
+msgstr ""
+
+#. [label]
+#: kulikovo_pole/scenarios/kulikovo_pole.cfg:131
+msgid "Mamai : avantguard"
+msgstr ""
+
+#. [label]
+#: kulikovo_pole/scenarios/kulikovo_pole.cfg:135
+msgid "Mamai : reserv"
+msgstr ""
+
+#. [label]
+#: kulikovo_pole/scenarios/kulikovo_pole.cfg:139
+msgid "Mamai : right flank"
+msgstr ""
+
+#. [label]
+#: kulikovo_pole/scenarios/kulikovo_pole.cfg:143
+msgid "Mamai : left flank"
+msgstr ""
+
+#. [label]
+#: kulikovo_pole/scenarios/kulikovo_pole.cfg:147
+msgid "Mamai : center"
+msgstr ""
+
+#. [label]
+#: kulikovo_pole/scenarios/kulikovo_pole.cfg:151
+msgid "Mamai : allies"
+msgstr ""
+
+#. [label]
+#: kulikovo_pole/scenarios/kulikovo_pole.cfg:155
+msgid "Mamai : army camp"
+msgstr ""
+
+#. [label]
+#: kulikovo_pole/scenarios/kulikovo_pole.cfg:161
+msgid "Dmitry : old army camp"
+msgstr ""
+
+#. [label]
+#: kulikovo_pole/scenarios/kulikovo_pole.cfg:169
+msgid "Dmitry : reserv"
+msgstr ""
+
+#. [label]
+#: kulikovo_pole/scenarios/kulikovo_pole.cfg:173
+msgid "Dmitry : right hand"
+msgstr ""
+
+#. [label]
+#: kulikovo_pole/scenarios/kulikovo_pole.cfg:177
+msgid "Dmitry : left hand"
+msgstr ""
+
+#. [label]
+#: kulikovo_pole/scenarios/kulikovo_pole.cfg:181
+msgid "Dmitry : center"
+msgstr ""
+
+#. [label]
+#: kulikovo_pole/scenarios/kulikovo_pole.cfg:192
+msgid "Red hill"
+msgstr ""
+
+#. [label]
+#: kulikovo_pole/scenarios/kulikovo_pole.cfg:196
+#: kulikovo_pole/scenarios/kulikovo_pole.cfg:200
+msgid "river Don"
+msgstr ""
+
+#. [label]
+#: kulikovo_pole/scenarios/kulikovo_pole.cfg:204
+msgid "river Nepryadva"
+msgstr ""
+
+#. [label]
+#: kulikovo_pole/scenarios/kulikovo_pole.cfg:208
+msgid "river Nijnij Dubyak"
+msgstr ""
+
+#. [label]
+#: kulikovo_pole/scenarios/kulikovo_pole.cfg:212
+msgid "river Kurza"
+msgstr ""
+
+#. [label]
+#: kulikovo_pole/scenarios/kulikovo_pole.cfg:216
+msgid "khutor Saburov"
+msgstr ""
+
+#. [label]
+#: kulikovo_pole/scenarios/kulikovo_pole.cfg:220
+msgid "village Danilovka"
+msgstr ""
+
+#. [label]
+#: kulikovo_pole/scenarios/kulikovo_pole.cfg:224
+msgid "village Rozhdestveno Monastyrshchina"
+msgstr ""
+
+#. [label]
+#: kulikovo_pole/scenarios/kulikovo_pole.cfg:228
+msgid "village Kulikovo"
+msgstr ""
+
+#. [unit]: type=Paladin, description=Peresvet Alexander, id=Peresvet Alexander
+#: kulikovo_pole/scenarios/kulikovo_pole.cfg:238
+msgid "Peresvet Alexander"
+msgstr ""
+
+#. [unit]: type=Lancer, description=Dmitry, id=Dmitry
+#: kulikovo_pole/scenarios/kulikovo_pole.cfg:249
+msgid "Dmitry"
+msgstr ""
+
+#. [unit]: type=Ancient Wose, description=Dmitry Mikhailovich Bobrok-Volyn, id=Dmitry Mikhailovich Bobrok-Volyn
+#: kulikovo_pole/scenarios/kulikovo_pole.cfg:273
+msgid "Dmitry Mikhailovich Bobrok-Volyn"
+msgstr ""
+
+#. [unit]: type=Elvish Avenger, description=Serpukhov Vladimir, id=Serpukhov Vladimir
+#: kulikovo_pole/scenarios/kulikovo_pole.cfg:297
+msgid "Serpukhov Vladimir"
+msgstr ""
+
+#. [unit]: type=Grand Knight, description=Chelubey, id=Chelubey
+#: kulikovo_pole/scenarios/kulikovo_pole.cfg:317
+msgid "Chelubey"
+msgstr ""
+
+#. [unit]: type=Orcish Sovereign, description=Mamai, id=Mamai
+#: kulikovo_pole/scenarios/kulikovo_pole.cfg:367
+msgid "Mamai"
+msgstr ""
+
+#. [message]: speaker=Dmitry
+#. [message]: speaker=Dmitry Mikhailovich Bobrok-Volyn
+#. [message]: speaker=Mamai
+#. [message]: speaker=Serpukhov Vladimir
+#: kulikovo_pole/scenarios/kulikovo_pole.cfg:400
+#: kulikovo_pole/scenarios/kulikovo_pole.cfg:406
+#: kulikovo_pole/scenarios/kulikovo_pole.cfg:412
+#: kulikovo_pole/scenarios/kulikovo_pole.cfg:418
+msgid ""
+"The Battle of Kulikovo was fought between the armies of Golden Horde under "
+"command of Mamai, and various Russian principalities under united command of "
+"Prince Dmitri of Moscow. Combined Russian armies faced a much larger Tatar "
+"force under the command of Mamai, a strongman of the Golden Horde. The old "
+"Russian poem Zadonshchina lists 150,000 Russians and 300,000 Tartaro-Mongols "
+"as taking part in the battle. (On this game's map, the forces are about "
+"equal for better balance.) Mamai's allies were late to the battle. (On this "
+"game's map, they show up at ~10 turn and go to the center at ~40 turn from "
+"up-left corner.) The battle took place on September 8, 1380, at the Kulikovo "
+"Field near the Don River and was won by Dmitri, who became known as Donskoy "
+"(of the Don) since then. The battle was opened by a single combat of two "
+"champions. The Russian champion was Alexander Peresvet. The Horde champion "
+"was Chelubey. The champions killed each other in the first run..."
+msgstr ""
+
+#. [unit]: type=Peasant, description=Slasher Joe, id=Slasher Joe
+#: kulikovo_pole/scenarios/kulikovo_pole.cfg:430
+msgid "Slasher Joe"
+msgstr ""
+
+#. [unit]: type=Grand Marshal, description=Jagiello, id=Jagiello
+#: kulikovo_pole/scenarios/kulikovo_pole.cfg:466
+msgid "Jagiello"
+msgstr ""
+
+#. [message]: speaker=Jagiello
+#: kulikovo_pole/scenarios/kulikovo_pole.cfg:505
+msgid ""
+"Mamai's allies are here! We are in the 35-40 km west of the Kulikovo Field."
+msgstr ""
+
+#. [message]: speaker=Slasher Joe
+#: kulikovo_pole/scenarios/kulikovo_pole.cfg:511
+msgid "Danger! Mamai's allies are here!"
+msgstr ""
